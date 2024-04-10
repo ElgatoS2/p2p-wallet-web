@@ -1,6 +1,6 @@
 import { PublicKey } from '@solana/web3.js';
 
-export const FEE_PAYER_PUBKEYS = new Set(['FG4Y3yX4AAchp1HvNZ7LfzFTewF2f6nDoMDCohTFrdpT']);
+export const FEE_PAYER_PUBKEYS = new Set(['6ZTfLaoqVrWgvHehjPhhhhAvcUCLVDQR5FA3Gt2E9Vxd']);
 
 export const SYSTEM_PROGRAM_ID = new PublicKey('11111111111111111111111111111111');
 
